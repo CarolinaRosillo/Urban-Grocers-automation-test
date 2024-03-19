@@ -10,11 +10,7 @@ user_body = {
 
 
 kit_body = {
-       "name": "Carolina",
-       "card": {
-           "id": 1
-       }
-}
+       "name": "Carolina"}
 
 one_character = "a"
 
